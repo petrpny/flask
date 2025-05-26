@@ -78,8 +78,7 @@ Installed Product: {installed_product or 'N/A'}
 Customer Contact: {customer_contact or 'N/A'}
 E-mail: {email or 'N/A'}
 Phone: {phone or 'N/A'}
-Problem:
-{problem or 'N/A'}
+Problem: {problem or 'N/A'}
 Priority: {priority or 'N/A'}
 Hours Needed: {hours_needed or 'N/A'}
 Assign For: {assign_for or 'N/A'}
