@@ -89,7 +89,7 @@ Assign To: {assign_to or 'N/A'}
         encoded_subject = urllib.parse.quote(email_subject)
         encoded_body = urllib.parse.quote(email_body)
 
-        mailto_link = f"mailto:pmccdispatch@philips.com?subject={encoded_subject}&body={encoded_body}"
+        mailto_link = f"mailto:pmccdispatch@philips.onmicrosoft.com?subject={encoded_subject}&body={encoded_body}"
         return render_template('confirmation.html', mailto_link=mailto_link, email_body=email_body)
 
 if __name__ == '__main__':
