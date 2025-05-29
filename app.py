@@ -24,7 +24,8 @@ CUSTOMER_CONTACTS = {
     "Michael Brown": {"phone": "954-949-0025", "email": "mbrown8@jhsmiami.org"},
     "John Burfeindt": {"phone": "954-309-2449", "email": "JBurfeindt@JHSmiami.org"},
     "Lloyd Isaac": {"phone": "954-243-9742", "email": "lisaac@jhsmiami.org"},
-    "Osee Desir": {"phone": "786-832-1410", "email": "osee.desir@jhsmiami.org"}
+    "Osee Desir": {"phone": "786-832-1410", "email": "osee.desir@jhsmiami.org"},
+    "Jean Smith": {"phone": "305-842-7061", "email": "smith.pierrejean@jhsmiami.org"}
 }
 
 # --- Default Assign To value ---
