@@ -15,7 +15,9 @@ INSTALLED_PRODUCTS = [
     "MMX",
     "X3",
     "MX450",
-    "MX550"
+    "MX550",
+    "MX700",
+    "MX800
 ]
 
 # --- Customer Contact, Phone, and Email Data ---
