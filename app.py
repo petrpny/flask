@@ -18,6 +18,7 @@ INSTALLED_PRODUCTS = [
     "MX550",
     "MX700",
     "MX800",
+    "module",
     "PIC iX"
 ]
 
